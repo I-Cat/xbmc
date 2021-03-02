@@ -73,7 +73,7 @@ Kodi couldn't exist without
 * All the developers that write the fantastic **software and libraries** that Kodi uses. We stand on the shoulders of giants.
 * Our **[fantastic community](https://forum.kodi.tv/)** for the never ending support, inspiration, feedback, and for keeping us on our toes when we screw up!
 * **[Our sponsors](https://kodi.tv/sponsors)**. Without them, keeping a huge project like this alive would be next to impossible.
-* **[contribute Donate](https://kodi.tv/contribute/donate)**. If you can please donate help Team kodi efforts.
+* **[Contribute Donate](https://kodi.tv/contribute/donate)**. If you can please donate to help Team kodi efforts.
 ## License
 Kodi is **[GPLv2 licensed](LICENSE.md)**. You may use, distribute and copy it under the license terms.
 
